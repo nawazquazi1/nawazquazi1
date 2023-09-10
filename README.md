@@ -1,5 +1,5 @@
 ### Hi there 👋
-### i am nawaz Quazi 
+### i am Mohmmad Akib Nawaz Quazi 
 <!--
 **nawazquazi1/nawazquazi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
